@@ -5,4 +5,4 @@ Ejemplos de numeros, retorno de funciones y parametros en JS
 
 ## Authors
 
-- [@Kairos]([https://github.com/Kr-luis])
+- [@Kairos](https://github.com/Kr-luis)
